@@ -1,2 +1,3 @@
 # gayatri-demo
-This is my first git repository
+This is my first git repository.
+Author-Gayatri patil
